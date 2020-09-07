@@ -1,0 +1,74 @@
+.page {
+    width: 750px;
+    margin: auto;
+    font-size: 16px;
+    
+    font-family: 'source sans Pro', Calibri ,Tahoma ,sans-serif ;
+    background-image: url(Shape.jpg);
+    
+}
+
+.InfoPhoto{
+    height : 200px;
+    
+}
+
+.Info {
+    float: left;
+    margin-left: 10px;
+    color: white;
+    
+}
+
+.Photo{
+    float: right;
+    
+}
+
+.Section {
+    margin-bottom: 50px;
+    margin-left: 50px; 
+}
+
+.Sec-Gauche {
+    float: left;
+}
+
+.Sec-Droite {
+    margin-left: 150px;
+}
+
+strong {
+    font-size: 26px;
+}
+
+
+h2 {
+    font-size: 28px;
+    color: blue;
+    text-transform: uppercase;
+    border-bottom: 3px solid blueviolet;
+
+}
+
+.Sec-Gauche {
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.Sec-Droite {
+    margin-left: 150px;
+    
+}
+
+.Titre {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+
+.Sec-Droite{
+    margin-left: 150px;
+    margin-top: 37px;
