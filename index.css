@@ -2,9 +2,9 @@
     width: 750px;
     margin: auto;
     font-size: 16px;
+    font-family: 'Grand Hotel', cursive;
+    background-image: url(Style.jpg) ;
     
-    font-family: 'source sans Pro', Calibri ,Tahoma ,sans-serif ;
-    background-image: url(Shape.jpg);
     
 }
 
@@ -18,6 +18,8 @@
     margin-left: 10px;
     color: white;
     
+    
+    
 }
 
 .Photo{
@@ -28,24 +30,26 @@
 .Section {
     margin-bottom: 50px;
     margin-left: 50px; 
+    text-shadow: 1px 1px 2px rgb(144, 155, 252), 0 0 1em rgb(73, 73, 153), 0 0 0.2em blue;
 }
 
 .Sec-Gauche {
     float: left;
+    color: white;
+    
 }
 
 .Sec-Droite {
     margin-left: 150px;
-}
-
-strong {
-    font-size: 26px;
+    color: white;
+    
+    
 }
 
 
 h2 {
     font-size: 28px;
-    color: blue;
+    color: rgb(15, 15, 121);
     text-transform: uppercase;
     border-bottom: 3px solid blueviolet;
 
@@ -53,9 +57,9 @@ h2 {
 
 .Sec-Gauche {
     float: left;
-    font-weight: bold;
     font-size: 16px;
 }
+    
 
 .Sec-Droite {
     margin-left: 150px;
@@ -63,7 +67,7 @@ h2 {
 }
 
 .Titre {
-    font-weight: bold;
+    
     font-size: 17px;
 }
 
@@ -72,3 +76,5 @@ h2 {
 .Sec-Droite{
     margin-left: 150px;
     margin-top: 37px;
+}
+
